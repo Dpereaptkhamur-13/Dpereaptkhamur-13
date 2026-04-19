@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deep Kaur
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
-- 📫 How to reach me through LinkedIn
+- 🌱 I’m currently building a project on pandas.
+- 📫 Reach me through LinkedIn
 - 😄 Pronouns: she
 
 
